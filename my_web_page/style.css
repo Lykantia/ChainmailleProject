@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none; /* Odstraní odrážky z nečíslovaného seznamu */
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none; /* Odstraní podtržení z odkazů */
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ff9800; /* Změní barvu textu při najetí myší */
+}
+
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    font-size: 18px;
+}
+ /* Komentář */
